@@ -16,5 +16,6 @@ public class AppTest
     public void shouldAnswerWithTrue()
     {
         System.out.println("测试1");
+        System.out.println("测试2");
     }
 }
