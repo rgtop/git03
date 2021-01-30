@@ -19,5 +19,6 @@ public class AppTest
         System.out.println("测试2");
         System.out.println("远程添加分支，test03");
         System.out.println("测试过滤提交");
+        System.out.println("主干操作");
     }
 }
